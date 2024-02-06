@@ -69,7 +69,3 @@ python model_pruning.py
 ### Results
 
 The project includes logging and visualization of training and pruning processes. You can view the accuracy and loss metrics, as well as the effect of pruning on model size and performance.
-
-### License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
